@@ -1,0 +1,2 @@
+To make this program work you have to save the files "tpPreguntas" and "tpRespuestas" in the next ubication: 
+first go to the folder where you have installed the assembler emulator, then you have to go into "vdrive" and create a folder named "tpFinal", this is where you save those files.

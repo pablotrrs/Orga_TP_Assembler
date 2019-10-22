@@ -1,0 +1,15 @@
+1) Cual es la memoria de acceso aleatorio?
+2) Que instruccion le devuelve el control a la maquina?
+3) Cuales son las siglas de la unidad encargada del 
+   execute en la arquitectura del 8086?
+4) La instruccion 'PUSH', donde almacena los datos?
+5) Cual es el nombre del lenguaje utilizado en el nivel 4
+   de los niveles de abstraccion?
+6) Cual es la arquitectura de instrucciones simples?
+7) Cual es el nombre de la compania creadora del 8086?
+8) Que instruccion invoca a una interrupcion de software?
+9) Como se le llama a la secuencia de 4 bits?
+10) Cual es el tipo de circuito capaz de retener memoria?
+
+Respuesta: 
+$
